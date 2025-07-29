@@ -1,3 +1,9 @@
+---
+layout: page
+title: "stackoverflow"
+permalink: /stackoverflow
+---
+
 ### 栈溢出
 #### 原理
 栈溢出主要是通过程序内部的危险函数实现对栈上空间的可控写入和读取, 进而实现提权等操作.

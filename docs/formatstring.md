@@ -1,3 +1,8 @@
+---
+layout: page
+title: "formatstring"
+permalink: /formatstring
+---
 ### 格式化字符串
 #### 原理
 (栈上)格式化字符串漏洞主要针对`printf()`类的函数. 其核心在于依赖格式化占位符指明参数值格式化类型.

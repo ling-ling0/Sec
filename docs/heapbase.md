@@ -1,3 +1,9 @@
+---
+layout: page
+title: "heapbase"
+permalink: /heapbase
+---
+
 区别于栈上内容, 堆部分与堆结构以及相关源代码关系密切, 所以这里首先对堆构造进行描述
 
 此处描述的是linux系统所使用的glibc

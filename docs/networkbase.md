@@ -1,3 +1,9 @@
+---
+layout: page
+title: "networkbase"
+permalink: /networkbase
+---
+
 网络安全相关基础内容, 即部分计算机网络的内容
 ### 网络模型
 网络模型分为如下三种
